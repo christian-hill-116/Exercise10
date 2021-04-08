@@ -1,0 +1,6 @@
+/Users/chill/OneDrive - Grand Canyon University/CST117/Week6/Exercise10/Exercise10/bin/Debug/Exercise10.exe
+/Users/chill/OneDrive - Grand Canyon University/CST117/Week6/Exercise10/Exercise10/bin/Debug/Exercise10.pdb
+/Users/chill/OneDrive - Grand Canyon University/CST117/Week6/Exercise10/Exercise10/obj/Debug/Exercise10.csprojAssemblyReference.cache
+/Users/chill/OneDrive - Grand Canyon University/CST117/Week6/Exercise10/Exercise10/obj/Debug/Exercise10.csproj.CoreCompileInputs.cache
+/Users/chill/OneDrive - Grand Canyon University/CST117/Week6/Exercise10/Exercise10/obj/Debug/Exercise10.exe
+/Users/chill/OneDrive - Grand Canyon University/CST117/Week6/Exercise10/Exercise10/obj/Debug/Exercise10.pdb
